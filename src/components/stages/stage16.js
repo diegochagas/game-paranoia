@@ -13,7 +13,7 @@ export default function Stage16(){
 				</div>
 				<div className="game-stage">
 			        <p><strong>16</strong> Assim que você entra no GHW, vê o robô. Ele joga água na sua cara e depois esfrega com o esfregão. Enquanto você tenta tirar o sabão da cara, o robô vai embora pelo corredor. </p>      
-			        <Link className="btn-game" to="/stages/26">Vá para 26.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/26">Vá para 26.</Link>
 				</div>
 			</section>
 			<Footer/>

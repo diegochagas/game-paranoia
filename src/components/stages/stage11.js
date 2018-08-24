@@ -14,7 +14,7 @@ export default function Stage11(){
 				<div className="game-stage">
 			        <p><strong>11</strong> O cientista começa a prender você com correias em um aparelho cheio de lâminas, uma máquina de tortura que deverá ser testada (e adivinhe quem será a cobaia), quando um robô invade a sala e começa a quebrar tudo. Alguns guardas da Segurança Interna conseguem explodir o robô louco - e depois são eliminados, porque destruir propriedade do Computador é traição.</p>
 			        <p>- Muito bem - rosna o cientista - Vocês estavam aqui sozinhos antes que eu saísse. É bem provável que um de vocês tenha sabotado o robô. Terei que levá-los ao Computador para que isso seja resolvido.</p>
-			        <Link className="btn-game" to="/stages/17">Vá para 17.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/17">Vá para 17.</Link>
 				</div>
 			</section>
 			<Footer/>

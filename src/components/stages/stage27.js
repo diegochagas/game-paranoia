@@ -13,7 +13,7 @@ export default function Stage27(){
 				</div>
 				<div className="game-stage">
 			        <p><strong>27</strong> Chega um clone do balconista e senta-se no lugar do primeiro. Ele pede a você um formulário OGF43B-5. Como o seu acaba de virar fumaça, ele envia você para a fila da direita para conseguir outro. </p>       
-			        <Link className="btn-game" to="/stages/32">Vá para 32.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/32">Vá para 32.</Link>
 				</div>
 			</section>
 			<Footer/>

@@ -16,8 +16,8 @@ export default function Stage29(){
 			        <p>O balconista vestido de vermelho (um Nível de Segurança superior ao seu, lembre-se) olha para você e resmunga um sonolento "quié?". Você, muito feliz, porque a felicidade é obrigatória, pede uma chave ALF para disjuntores potenciais.</p>
 			        <p>— Cadê sua autorização OGF43B-5 — ele pergunta, quase dormindo.</p>
 			        <p>Ah, claro. Aquele envelope preto tem uma autorização, você pensa. Abre o envelope e encontra um papel verde onde diz "Autorização OGF43B-5". O que você faz?</p>
-			        <Link className="btn-game" to="/stages/06">Diz "veia, eu tenho esta autorização," e entrega o papel verde? Vá para 6.</Link>     
-			        <Link className="btn-game" to="/stages/32">Diz "eu não tenho, vou conseguir uma na fila da direita"? Vá para 32.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/06">Diz "veia, eu tenho esta autorização," e entrega o papel verde? Vá para 6.</Link>     
+			        <Link className="btn-game" to="/game-paranoia/stages/32">Diz "eu não tenho, vou conseguir uma na fila da direita"? Vá para 32.</Link>
 				</div>
 			</section>
 			<Footer/>

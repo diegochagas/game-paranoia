@@ -14,9 +14,9 @@ export default function Stage06(){
 				<div className="game-stage">
 			        <p><strong>6</strong> Assim que você entrega o formulário esmeralda, a expressão no rosto do balconista muda de sonolência para o temor e revolta. Que aconteceu? Bem, você tocou um papel esmeralda - e o verde não é para seu Nível de Segurança. Entrei bem, você pensa.</p>     
 			        <p>- Traidor! - grita o balconista, apertando um botão de alarme. Em segundos um batalhão de truculentos soldados da Segurança Interna invade a sala, apontando fuzis laser em sua direção. O que você diz aos SegInt?</p>
-			        <Link className="btn-game" to="/stages/23">"Ali, um traidor! Ele tem um formulário que não é para seu Nível de Segurança!" Vá para 23.</Link>
-			        <Link className="btn-game" to="/stages/36">"Não é culpa minha! Entregaram-me isso lá no P&D!" Vá para 36.</Link>
-			        <Link className="btn-game" to="/stages/10">"Confesso meus crimes! Eu estava com o formulário esmeralda!" Vá para 10.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/23">"Ali, um traidor! Ele tem um formulário que não é para seu Nível de Segurança!" Vá para 23.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/36">"Não é culpa minha! Entregaram-me isso lá no P&D!" Vá para 36.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/10">"Confesso meus crimes! Eu estava com o formulário esmeralda!" Vá para 10.</Link>
 				</div>
 			</section>
 			<Footer/>

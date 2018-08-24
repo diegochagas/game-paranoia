@@ -15,8 +15,8 @@ export default function Stage32(){
 			        <p><strong>32</strong> Você pega a fila da direita, e passa três horas divertidas nela. O único incômodo é que o cidadão na sua frente deve estar sofrendo de alguma disfunção intestinal, tornando o ar puro pouco agradável ao olfato.</p>
 			        <p>Quando chega a sua vez de ser atendido, o balconista pede a você que espere um minutinho e abandona a sala. Ele retorna uma hora e quarenta minutos mais tarde:</p>
 			        <p>- Ah, nada como um bom almoço! Muito bem, o que você quer?</p>
-			        <Link className="btn-game" to="/stages/29">Se você quer uma chave ALF não vai consegui-la aqui e terá que pegar a outra fila; vá para 29.</Link>
-			        <Link className="btn-game" to="/stages/18">Se quer uma autorização OGF43B-5, vá para 18.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/29">Se você quer uma chave ALF não vai consegui-la aqui e terá que pegar a outra fila; vá para 29.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/18">Se quer uma autorização OGF43B-5, vá para 18.</Link>
 				</div>
 			</section>
 			<Footer/>

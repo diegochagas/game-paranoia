@@ -15,7 +15,7 @@ export default function Stage20(){
 			        <p><strong>20</strong> — Que está fazendo, CHUÁ? — você pergunta.</p>     
 			        <p>— Nada — responde ele. — Bem, JOCA, você é meu amigo e acho que posso lhe contar. Descobri que alguém sabotou Um robô e estou tentando descobrir qual foi. Sabe como é, se surgir algum problema, os culpados seremos nós. Mas vamos voltar, pois nosso amado chefe deve estar voltando.</p>     
 			        <p>Vocês voltam para a outra sala.</p>      
-			        <Link className="btn-game" to="/stages/04">Vá para 4.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/04">Vá para 4.</Link>
 				</div>
 			</section>
 			<Footer/>

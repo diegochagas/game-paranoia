@@ -13,7 +13,7 @@ export default function Stage18(){
 				</div>
 				<div className="game-stage">
 			        <p><strong>18</strong> Você pega a autorização e passa mais algumas horas relaxantes na outra fila. Finalmente pode pegar a chave. </p>
-			        <Link className="btn-game" to="/stages/30">Vá para 30.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/30">Vá para 30.</Link>
 				</div>
 			</section>
 			<Footer/>

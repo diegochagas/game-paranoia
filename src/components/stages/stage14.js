@@ -17,8 +17,8 @@ export default function Stage14(){
 			        <p>— Fui buscar a chave ALF que o senhor me pediu. Desculpe pela demora, a fila estava um pouco grande.</p>
 			        <p>- Ah, agora me lembro — ele diz, coçando a cabeça. – É verdade, eu te mandei buscar uma chave. Pode colocar em algum canto, não vou precisar mais. Achei a minha no meu bolso.</p>
 			        <p>O que você faz diante desta situação detestável?</p>     
-			        <Link className="btn-game" to="/stages/25">Pula na garganta do seu chefe e grita "Chuba-chuba, eu vou te matar!" Vá para 25.</Link>
-			        <Link className="btn-game" to="/stages/05">Espera feito bobo pela próxima ordem. Vá para 5.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/25">Pula na garganta do seu chefe e grita "Chuba-chuba, eu vou te matar!" Vá para 25.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/05">Espera feito bobo pela próxima ordem. Vá para 5.</Link>
 				</div>
 			</section>
 			<Footer/>

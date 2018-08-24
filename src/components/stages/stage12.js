@@ -14,7 +14,7 @@ export default function Stage12(){
 				<div className="game-stage">
 			        <p><strong>12</strong> Você entra no corredor. Seu colega se aproxima de você e sussurra: — Olá, JOCA CAB-1. Soubemos que alguém no P&D, onde você trabalha, está armando alguma coisa. Verifique e nos informe assim que possível.</p>     
 			        <p>Depois disso ele se vira e vai embora. Você continua em seu caminho.</p>
-			        <Link className="btn-game" to="/stages/35">Vá para 35.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/35">Vá para 35.</Link>
 				</div>
 			</section>
 			<Footer/>

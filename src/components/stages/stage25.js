@@ -13,7 +13,7 @@ export default function Stage25(){
 				</div>
 				<div className="game-stage">
 			        <p><strong>25</strong> Francamente! Esta é uma aventura-solo baseada no RPG Paranóia. Você acha mesmo que vai sobreviver por muito tempo no Complexo Alfa com atitudes como essa? Desta vez sua vida será poupada, mas não se descuide de novo. Agora você vai ficar quietinho, parado como um bobo, esperando a próxima instrução do seu chefe.</p>        
-			        <Link className="btn-game" to="/stages/05">Vá para 5. Sim, isso mesmo. Bom garoto.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/05">Vá para 5. Sim, isso mesmo. Bom garoto.</Link>
 				</div>
 			</section>
 			<Footer/>

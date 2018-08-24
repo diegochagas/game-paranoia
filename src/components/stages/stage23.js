@@ -16,7 +16,7 @@ export default function Stage23(){
 			        <p>- Não é iss... - ele grita, mas não consegue terminar a frase antes de ser transformado em fumaça pelos rifles laser dos guardas.</p>
 			        <p>- Bom trabalho, cidadão - o comandante da Segni cumprimenta você. — Por denunciar o traidor, sua lealdade será comunicada ao Computador. Continue assim, e receberá um nível de segurança mais elevado. Seja feliz.</p>
 			        <p>Manobra esperta. Por pouco você não vira fumaça em vez do balconista.</p>
-			        <Link className="btn-game" to="/stages/27">Vá para 27.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/27">Vá para 27.</Link>
 				</div>
 			</section>
 			<Footer/>

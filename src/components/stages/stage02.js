@@ -13,7 +13,7 @@ export default function Stage02(){
 		        </div>
 				<div className="game-stage">
 		        	<p><strong>2</strong> Você entra no banheiro AXK e não encontra o robô ali. Um cidadão está no banheiro, e lhe entrega um bilhete. Não há tempo de ler agora, senão o robô pode sumir. Se quiser pegar o papel, anote mentalmente que fez isso. Se não quer, simplesmente jogue fora.</p>
-			        <Link className="btn-game" to="/stages/34">Vá para 34</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/34">Vá para 34</Link>
 		    	</div>
 		    </section>
 	        <Footer/>

@@ -16,8 +16,8 @@ export default function Stage30(){
 			        <p>Você escuta um "psiu" vindo de um corredor mal iluminado. Quando olha, alguém que se esconde nas sombras e diz:</p>
 			        <p>- Chuba-chuba prrrprrr hey!</p>
 			        <p>É a senha da sua sociedade secreta! Sim, você pertence a um grupo que tenta derrubar a tirania do Computador. Claro que pertencer a uma sociedade secreta é traição. Traição é punida com a morte.</p>
-			        <Link className="btn-game" to="/stages/12">Você entra no corredor escuro para falar com ele? Vá para 12.</Link>       
-			        <Link className="btn-game" to="/stages/35">Você continua seguindo seu caminho sem olhar para trás? Vá para 35.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/12">Você entra no corredor escuro para falar com ele? Vá para 12.</Link>       
+			        <Link className="btn-game" to="/game-paranoia/stages/35">Você continua seguindo seu caminho sem olhar para trás? Vá para 35.</Link>
 				</div>
 			</section>
 			<Footer/>

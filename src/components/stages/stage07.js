@@ -15,7 +15,7 @@ export default function Stage07(){
 			        <p><strong>7</strong> "Oh, não tem problema - diz o cidadão vermelho - Você acha que eu iria dedurar você? Fique tranqüilo, pode entrar no corredor vermelho. Ninguém vai ficar sabendo".</p>     
 			        <p>Você desconfia, mas não pode desobedecer a um cidadão de nível superior. Quando entra no corredor vermelho e vai até o robô, ouve a gargalhada sádica do cidadão vermelho enquanto ele aponta uma pistola laser:</p>
 			        <p>- Traidor! Traidor! O Computador vai me recompensar! - e aperta o gatilho, reduzindo você a purê de átomos.</p>      
-			        <Link className="btn-game" to="/stages/01">É... vá para 1.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/01">É... vá para 1.</Link>
 				</div>
 			</section>
 			<Footer/>

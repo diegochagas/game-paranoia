@@ -13,8 +13,8 @@ export default function Stage13(){
 				</div>
 				<div className="game-stage">
 			        <p><strong>13</strong> Você olha para os lados e não vê ninguém. Procura câmeras e também não encontra nenhuma. É, talvez não aconteça nada. Com cuidado você chega perto do robô, e ele parece não ligar para sua presença. Na cabeça do robô você pode ver um botão.</p>      
-			        <Link className="btn-game" to="/stages/09">Você aperta o botão? Vá para 9.</Link>
-			        <Link className="btn-game" to="/stages/21">Enfia a mão no lixo e pega a chave? Vá para 21.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/09">Você aperta o botão? Vá para 9.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/21">Enfia a mão no lixo e pega a chave? Vá para 21.</Link>
 				</div>
 			</section>
 			<Footer/>

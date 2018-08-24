@@ -18,7 +18,7 @@ export default function Stage03(){
 			        <p>Um texto de Karl Marx. Quem é esse cara? Você pensa.</p>     
 			        <p>- APENAS UM COMUNISTA TEM EM SUA POSSE MATERIAL COMUNISTA - diz o Computador. KARL MARX É UM COMUNISTA E VOCÊ TEM UM BILHETE ESCRITO POR ELE.</p>
 			        <p>O enorme e reluzente canhão aponta em sua direςάο. É uma pena. Você chegou tão longe e morreu aqui, seu Comuna! Mas, bem... vamos facilitar um pouco, pois sabemos que você vai roubar mesmo e recomeçar a aventura pela metade - afinal, só mesmo trapaceando se sobrevive no Complexo Alfa. </p>
-			        <Link className="btn-game" to="/stages/17">Volte para 17 e finja que você não pegou o papel.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/17">Volte para 17 e finja que você não pegou o papel.</Link>
 		    	</div>
 	    	</section>
 	        <Footer/>

@@ -13,8 +13,8 @@ export default function Stage22(){
 				</div>
 				<div className="game-stage">
 			        <p><strong>22</strong> Você abre a caixa e encontra dentro dela um objeto com um botão. Sobre o botão está escrito: "Não aperte". </p>        
-			        <Link className="btn-game" to="/stages/38">Se quer apertar o botão, vá para 38.</Link> 
-			        <Link className="btn-game" to="/stages/15">Se você é medroso(a), quer fechar a caixa e deixar como estava, vá para 15.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/38">Se quer apertar o botão, vá para 38.</Link> 
+			        <Link className="btn-game" to="/game-paranoia/stages/15">Se você é medroso(a), quer fechar a caixa e deixar como estava, vá para 15.</Link>
 				</div>
 			</section>
 			<Footer/>

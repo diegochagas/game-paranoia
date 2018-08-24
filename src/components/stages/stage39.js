@@ -13,7 +13,7 @@ export default function Stage39(){
 				</div>
 				<div className="game-stage">
 			        <p>39 Depois de algum tempo, seu amigo retorna e vocês recomeçam a conversar. </p>        
-			        <Link className="btn-game" to="/stages/15">Vá para 15.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/15">Vá para 15.</Link>
 				</div>
 			</section>
 			<Footer/>

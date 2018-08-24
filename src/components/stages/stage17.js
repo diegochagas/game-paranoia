@@ -19,8 +19,8 @@ export default function Stage17(){
 			        <p>- VOCÊ É FELIZ, CIDADÃO?</p>     
 			        <p>- Muito, generoso Computador.</p>
 			        <p>- REVISTEM-NO.</p>
-			        <Link className="btn-game" to="/stages/03">Você tem consigo o papel que recebeu no banheiro AXK? Vá para 3.</Link>
-			        <Link className="btn-game" to="/stages/40">Se não tiver, vá para 40.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/03">Você tem consigo o papel que recebeu no banheiro AXK? Vá para 3.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/40">Se não tiver, vá para 40.</Link>
 				</div>
 			</section>
 			<Footer/>

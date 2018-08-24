@@ -16,7 +16,7 @@ export default function Stage28(){
 			        <p>- Então - você acusa - você se recusa a colaborar com o Computador? Isso é traição!</p>
 			        <p>- Ei, eu não disse isso! Não pense que você pode me enganar assim facilmente. Vou trazer o robô aqui para que você mesmo verifique.</p>
 			        <p>Ele vai até o robô, desliga e leva até você. Você pega a chave, agradece ao cidadão vermelho e segue o seu caminho.</p>
-			        <Link className="btn-game" to="/stages/14">Vá para 14.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/14">Vá para 14.</Link>
 				</div>
 			</section>
 			<Footer/>

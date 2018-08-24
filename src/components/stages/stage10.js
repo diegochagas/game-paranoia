@@ -13,7 +13,7 @@ export default function Stage10(){
 				</div>
 				<div className="game-stage">
 			        <p><strong>10</strong> Assim que você termina de falar, percebe sorrisos diabólicos nos rostos dos guardas. Suas armas brilham com luz laser, e no mesmo instante você é transformado em fumaça verde, da mesma cor de sua autorização.</p>     
-			        <Link className="btn-game" to="/stages/1">É o fim. Recomece com um novo clone. Vá para 1.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/1">É o fim. Recomece com um novo clone. Vá para 1.</Link>
 				</div>
 			</section>
 			<Footer/>

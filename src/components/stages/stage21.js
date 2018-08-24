@@ -15,7 +15,7 @@ export default function Stage21(){
 			        <p><strong>21</strong> É melhor não se arriscar. Você coloca a mão na lata de lixo — apenas para descobrir, da pior maneira, que a tampa se fecha assim que alguma coisa é colocada na lata. Sua mão fica presa e o robô recomeça a andar rapidamente, arrastando você pelos corredores. A boa notícia é que vocês saem do corredor vermelho; e a má notícia é que entram num corredor azul Calma, talvez nem tudo esteja perdido! Talvez o robô volte ao corredor vermelho antes que você seja pulverizado.</p>
 			        <p>De repente, o robô entra numa sala esmeralda onde estão umas trinta pessoas vestidas de azul. Há uma faixa onde se lê: "Reunião Anual dos Agentes Atiradores: Nível de Segurança Azul".</p>
 			        <p>Você está com problemas. Mas, segundos depois, todos os seus problemas terminam, já que você foi reduzido a uma pasta melequenta pelas armas dos Agentes Atiradores. Melhor recomeçar com outro clone.</p>     
-			        <Link className="btn-game" to="/stages/53">Vá para 53.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/53">Vá para 53.</Link>
 				</div>
 			</section>
 			<Footer/>

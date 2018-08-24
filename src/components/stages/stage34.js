@@ -13,7 +13,7 @@ export default function Stage34(){
 				</div>
 				<div className="game-stage">
 			        <p><strong>34</strong> Decididamente o robô não está no corredor. É provável que esteja no banheiro GHW.</p>
-			        <Link className="btn-game" to="/stages/16">Vá para 16.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/16">Vá para 16.</Link>
 				</div>
 			</section>
 			<Footer/>

@@ -16,7 +16,7 @@ export default function Intro(){
 			        <p>O Complexo Alfa é completamente fechado, sem regiões ao ar livre. Um vasto labirinto de corredores coloridos. As pessoas são classificadas por cores que determinam seus níveis de segurança, de acordo com os critérios do Computador. Desobedecer a um cidadão de Nível de Segurança superior ao seu é traição. Ser Comunista é traição (embora você nem faça idéia do que seja um Comunista). Pertencer a uma sociedade secreta é traição. Traição é punida com a morte.</p>
 			        <p>O Computador preparou esta aventura-solo para divertir você, cidadão. Tome suas decisões e siga as instruções. Se as instruções enviarem você para parte alguma, terá sido devido a uma falha do Computador — mas, como o Computador nunca falha, encontrar falhas é traição. Deixar de seguir as instruções é traição. Traição é punida com a morte.</p>
 			        <p>Tenha uma boa aventura, cidadão.</p>
-			        <Link className="btn-game" to="/stages/01">Comece em 1.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/01">Comece em 1.</Link>
 			    </div>
 	        </section>
 	        <Footer/>

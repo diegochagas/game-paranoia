@@ -13,7 +13,7 @@ export default function Stage09(){
 				</div>
 				<div className="game-stage">
 			        <p><strong>9</strong> Você aperta o botão e o robô cessa de funcionar. Ótimo. Você rapidamente mergulha a mão na lata de lixo Cicopiada e pega a chave ALF, saindo mais rápido do que entrou no corredor vermelho. Bem na hora, pois logo depois você vê um cidadão infravermelho vindo pelo corredor - e ele não hesitaria em denunciá-lo como traidor para cair nas graças do Computador. Essa foi por pouco.</p>     
-			        <Link className="btn-game" to="/stages/14">Vá para 14.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/14">Vá para 14.</Link>
 				</div>
 			</section>
 			<Footer/>

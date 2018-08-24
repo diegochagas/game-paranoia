@@ -17,8 +17,8 @@ export default function Stage08(){
 			        <p>- Qual o seu Nível de Segurança, cidadão? - Infravermelho - você responde.</p>
 			        <p>- Desculpe, mas infelizmente esta informação não está disponível para o seu Nível de Segurança.</p>
 			        <p>Feliz da vida, você abandona a sala. </p>
-			        <Link className="btn-game" to="/stages/29">Se quiser pegar a fila da esquerda, vá para 29. </Link>
-			        <Link className="btn-game" to="/stages/32">Se quer pegar a fila da direita, vá para 32.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/29">Se quiser pegar a fila da esquerda, vá para 29. </Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/32">Se quer pegar a fila da direita, vá para 32.</Link>
 				</div>
 			</section>
 			<Footer/>
