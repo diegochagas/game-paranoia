@@ -9,11 +9,11 @@ export default function Stage02(){
 			<Header/>
 			<section className="game">
 		        <div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 		        </div>
 				<div className="game-stage">
-		        	<p><strong>2</strong> Você entra no banheiro AXK e não encontra o robô ali. Um cidadão está no banheiro, e lhe entrega um bilhete. Não há tempo de ler agora, senão o robô pode sumir. Se quiser pegar o papel, anote mentalmente que fez isso. Se não quer, simplesmente jogue fora.</p>
-			        <Link className="btn-game" to="/game-paranoia/stages/34">Vá para 34</Link>
+		        	<p><strong>2</strong> You enter the AXK bathroom and you can not find the robot there. A citizen is in the bathroom, and hands him a ticket. There is no time to read now, otherwise the robot may disappear. If you want to get the paper, mentally note that you did it. If you do not want to, just throw it away.</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/34">Go to 34</Link>
 		    	</div>
 		    </section>
 	        <Footer/>

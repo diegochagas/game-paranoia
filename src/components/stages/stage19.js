@@ -9,13 +9,13 @@ export default function Stage19(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>19</strong> Entrando na sala de informações, você descobre que ela está lotada de cidadãos infravermelhos. Você recebe uma senha de número 345, e suspira aliviado: muito menos gente do que há nas filas lá fora.</p>     
-			        <Link className="btn-game" to="/game-paranoia/stages/08">Se quiser ficar com a senha e esperar sua vez, vá para 8.</Link>      
-			        <Link className="btn-game" to="/game-paranoia/stages/29">Se quer voltar e pegar a fila da esquerda, vá para 29.</Link>
-			        <Link className="btn-game" to="/game-paranoia/stages/32">Se quer a fila da direita, vá para 32.</Link>
+			        <p><strong>19</strong> Entering the information room, you find that it is full of infrared citizens. You get a password number 345, and you sigh with relief: much less people than there are in the queues outside.</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/08">If you want to keep the password and wait your turn, go to 8.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/29">If you want to go back and get the queue on the left, go to 29.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/32">If you want the right row, go to 32.</Link>
 				</div>
 			</section>
 			<Footer/>

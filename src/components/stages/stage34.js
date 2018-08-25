@@ -9,11 +9,11 @@ export default function Stage34(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>34</strong> Decididamente o robô não está no corredor. É provável que esteja no banheiro GHW.</p>
-			        <Link className="btn-game" to="/game-paranoia/stages/16">Vá para 16.</Link>
+			        <p><strong>34</strong> Decidedly the robot is not in the hall. It's probably in the GHW bathroom.</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/16">Go to 16.</Link>
 				</div>
 			</section>
 			<Footer/>

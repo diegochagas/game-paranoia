@@ -4,7 +4,7 @@ export default function Footer(){
 	return(
 		<footer>
 	        <p>Diego Chagas</p>
-	        <a href="twitter.com/diegorchagas">@diegorchagas</a>
+	        <a href="https://github.com/diegochagas" >https://github.com/diegochagas</a>
         </footer>
 	);
 }

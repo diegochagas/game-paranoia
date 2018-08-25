@@ -9,15 +9,15 @@ export default function Stage29(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>29</strong> Você pega a fila da esquerda e passa algumas horas prazerosas nela, contando seus próprios fios de cabelo para passar o tempo. Perdeu a conta algumas vezes, mas conseguiu contar todos os 68.457 antes que chegasse a sua vez.</p>        
-			        <p>O balconista vestido de vermelho (um Nível de Segurança superior ao seu, lembre-se) olha para você e resmunga um sonolento "quié?". Você, muito feliz, porque a felicidade é obrigatória, pede uma chave ALF para disjuntores potenciais.</p>
-			        <p>— Cadê sua autorização OGF43B-5 — ele pergunta, quase dormindo.</p>
-			        <p>Ah, claro. Aquele envelope preto tem uma autorização, você pensa. Abre o envelope e encontra um papel verde onde diz "Autorização OGF43B-5". O que você faz?</p>
-			        <Link className="btn-game" to="/game-paranoia/stages/06">Diz "veia, eu tenho esta autorização," e entrega o papel verde? Vá para 6.</Link>     
-			        <Link className="btn-game" to="/game-paranoia/stages/32">Diz "eu não tenho, vou conseguir uma na fila da direita"? Vá para 32.</Link>
+			        <p><strong>29</strong> You pick up the line on the left and spend some delightful hours in it, counting your own strands of hair to pass the time. He lost count a few times, but he managed to count all 68,457 before it was his turn.</p>
+			        <p>The clerk dressed in red (a level of security superior to yours, remember) looks at you and mumbles a sleepy "who?". You, very happy, because happiness is mandatory, asks for an ALF switch for potential breakers.</p>
+			        <p>— Where's your OGF43B-5 warrant — he asks, almost asleep.</p>
+			        <p>Of course. That black envelope has a warrant, you think. Open the envelope and find a green paper where it says "Authorization OGF43B-5". What do you do?</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/06">You say "See, I have this authorization," and hand over the green paper? Go to 6.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/32">You say "I do not have it, I'll get one in the right queue"? Go to 32.</Link>
 				</div>
 			</section>
 			<Footer/>

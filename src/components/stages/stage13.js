@@ -9,12 +9,12 @@ export default function Stage13(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>13</strong> Você olha para os lados e não vê ninguém. Procura câmeras e também não encontra nenhuma. É, talvez não aconteça nada. Com cuidado você chega perto do robô, e ele parece não ligar para sua presença. Na cabeça do robô você pode ver um botão.</p>      
-			        <Link className="btn-game" to="/game-paranoia/stages/09">Você aperta o botão? Vá para 9.</Link>
-			        <Link className="btn-game" to="/game-paranoia/stages/21">Enfia a mão no lixo e pega a chave? Vá para 21.</Link>
+			        <p><strong>13</strong> You look sideways and you do not see anyone. It searches for cameras and also does not find any. Yeah, maybe nothing will happen. Carefully you get close to the robot, and it does not seem to call your presence. On the robot's head you can see a button.</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/09">Do you press the button? Go to 9.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/21">Put your hand in the trash and get the key? Go to 21.</Link>
 				</div>
 			</section>
 			<Footer/>

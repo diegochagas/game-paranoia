@@ -9,16 +9,16 @@ export default function Stage03(){
 			<Header/>
 			<section className="game">
 		        <div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>      
 		        </div>
 				<div className="game-stage">
-				    <p><strong>3</strong> Um soldado remexe em seus bolsos e acha um bilhete.</p>     
-			        <p>Ele lê em voz alta:</p>
-			        <p>- "Todo o poder para os cidadãos infravermelhos."</p>
-			        <p>Um texto de Karl Marx. Quem é esse cara? Você pensa.</p>     
-			        <p>- APENAS UM COMUNISTA TEM EM SUA POSSE MATERIAL COMUNISTA - diz o Computador. KARL MARX É UM COMUNISTA E VOCÊ TEM UM BILHETE ESCRITO POR ELE.</p>
-			        <p>O enorme e reluzente canhão aponta em sua direςάο. É uma pena. Você chegou tão longe e morreu aqui, seu Comuna! Mas, bem... vamos facilitar um pouco, pois sabemos que você vai roubar mesmo e recomeçar a aventura pela metade - afinal, só mesmo trapaceando se sobrevive no Complexo Alfa. </p>
-			        <Link className="btn-game" to="/game-paranoia/stages/17">Volte para 17 e finja que você não pegou o papel.</Link>
+				    <p><strong>3</strong> A soldier rummages in his pockets and finds a note.</p>
+			        <p>He reads aloud:</p>
+			        <p>- "All power for the infrared citizens."</p>
+			        <p>A text by Karl Marx. Who is this guy? You think.</p>
+			        <p>- ONLY ONE COMMUNIST HAS HIS OWN COMMUNIST MATERIAL, "says the Computer. KARL MARX IS A COMMUNIST AND YOU HAVE A TICKET WRITTEN BY HIM.</p>
+			        <p>The huge gleaming cannon points in its dire. It is a pity. You have come so far and died here, your Commune! But, well ... let's make it easier, because we know you're going to steal and restart the adventure in half - after all, just cheating if you survive in the Alpha Complex. </p>
+			        <Link className="btn-game" to="/game-paranoia/stages/17">Go back to 17 and pretend you did not get the paper.</Link>
 		    	</div>
 	    	</section>
 	        <Footer/>

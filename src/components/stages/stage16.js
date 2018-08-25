@@ -9,11 +9,11 @@ export default function Stage16(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>16</strong> Assim que você entra no GHW, vê o robô. Ele joga água na sua cara e depois esfrega com o esfregão. Enquanto você tenta tirar o sabão da cara, o robô vai embora pelo corredor. </p>      
-			        <Link className="btn-game" to="/game-paranoia/stages/26">Vá para 26.</Link>
+			        <p><strong>16</strong> As soon as you enter the GHW, see the robot. He throws water on his face and then rubs it with his mop. As you try to get the soap out of the face, the robot goes off down the hall.</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/26">Go to 26.</Link>
 				</div>
 			</section>
 			<Footer/>

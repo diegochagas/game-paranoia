@@ -8,13 +8,13 @@ export default function Stage37(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>37</strong> Sem que CHUÁ perceba, você chama seu chefe de lado e conta tudo a ele. O cientista vai até a sala dos robôs e desliga todos. Ele examina os robôs e ordena que vocês esperem na outra sala. Depois de algum tempo, ele volta e diz:</p>
-			        <p>- Muito bem, cidadão! Suas suspeitas estavam certas. Descobri que seu amigo sabotou um robô.</p>       
-			        <p>CHUÁ apenas tem tempo de olhar para você surpreso, antes de ser pulverizado pela pistola laser do cientista. Você recebe congratulações do Computador e é promovido: agora pertence ao nível de segurança vermelho. Você torna-se um Agente Atirador. Sua missão é encontrar traidores e eliminá-los. Infelizmente, pouca gente sobrevive por muito tempo nesse trabalho... mas no Complexo Alfa as coisas são assim mesmo.</p>
-			        <p>Seja feliz, cidadão.</p>
+			        <p><strong>37</strong> Without SPLASH noticing, you call your boss aside and tell him everything. The scientist goes to the robot room and turns everyone off. He examines the robots and orders you to wait in the other room. After some time, he comes back and says:</p>
+			        <p>— Very well, citizen! His suspicions were right. I discovered that your friend sabotaged a robot.</p>
+			        <p>SPLASH just has time to look at you surprised, before being sprayed by the scientist's laser pistol. You receive congratulations from the Computer and it's promoted: it now belongs to the red security level. You become a Sniper Agent. Its mission is to find traitors and eliminate them. Unfortunately, very few people survive for a long time in this work... but in the Alpha Complex things are like that.</p>
+			        <p>Be happy, citizen.</p>
 				</div>
 			</section>
 			<Footer/>

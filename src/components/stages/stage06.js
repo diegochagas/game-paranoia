@@ -9,14 +9,14 @@ export default function Stage06(){
 			<Header></Header>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>6</strong> Assim que você entrega o formulário esmeralda, a expressão no rosto do balconista muda de sonolência para o temor e revolta. Que aconteceu? Bem, você tocou um papel esmeralda - e o verde não é para seu Nível de Segurança. Entrei bem, você pensa.</p>     
-			        <p>- Traidor! - grita o balconista, apertando um botão de alarme. Em segundos um batalhão de truculentos soldados da Segurança Interna invade a sala, apontando fuzis laser em sua direção. O que você diz aos SegInt?</p>
-			        <Link className="btn-game" to="/game-paranoia/stages/23">"Ali, um traidor! Ele tem um formulário que não é para seu Nível de Segurança!" Vá para 23.</Link>
-			        <Link className="btn-game" to="/game-paranoia/stages/36">"Não é culpa minha! Entregaram-me isso lá no P&D!" Vá para 36.</Link>
-			        <Link className="btn-game" to="/game-paranoia/stages/10">"Confesso meus crimes! Eu estava com o formulário esmeralda!" Vá para 10.</Link>
+			        <p><strong>6</strong> As soon as you deliver the emerald form, the expression on the clerk's face changes from drowsiness to fear and revolt. What happened? Well, you played an emerald role - and green is not for your Safety Level. I walked in well, you think.</p>
+			        <p>— Traitor! shouts the clerk, pressing an alarm button. In seconds a battalion of truculent Homeland Security troops invade the room, aiming laser rifles toward him. What do you say to HomSec?</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/23">"There, a traitor! He has a form that is not for his Level of Security!" Go to 23.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/36">"It's not my fault! They gave it to me there in R & D!" Go to 36.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/10">"I confess my crimes! I had the emerald form!" Go to 10.</Link>
 				</div>
 			</section>
 			<Footer/>

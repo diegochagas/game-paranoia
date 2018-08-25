@@ -9,14 +9,14 @@ export default function Stage35(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>35</strong> Você anda calmamente pelo corredor quando vê um robô de limpeza vindo em sua direção, em alta velocidade. O robô possui quatro braços, que carregam um esfregão, um balde, uma vassoura e uma pá de lixo. Além disso, há um cesto de lixo acoplado ao robô.</p>
-			        <p>Conhecendo a péssima programação dos robôs do Complexo Alfa, você tenta sair do caminho — mas não consegue. O robô atropela você, fazendo com que deixe cair a chave ALF. Ela vai parar na pá de lixo do robô, que joga-a em sua lata de lixo e desaparece em uma esquina.</p>
-			        <p>Você persegue o maníaco mecânico, mas perde-o de vista. Aqui existem apenas duas portas por onde ele possa ter entrado;</p>
-			        <Link className="btn-game" to="/game-paranoia/stages/02">o banheiro AXK (vá para 2)</Link>
-			        <Link className="btn-game" to="/game-paranoia/stages/16">ou o banheiro GHW (vá para 16).</Link>
+			        <p><strong>35</strong> You walk quietly down the hallway when you see a cleaning robot coming toward you at high speed. The robot has four arms, which carry a mop, a bucket, a broom and a dustpan. In addition, there is a garbage bin attached to the robot.</p>
+			        <p>Knowing the awful programming of the robots of the Alpha Complex, you try to get out of the way — but you can not. The robot runs over you, causing you to drop the ALF switch. She will stop at the robot's trash shovel, which throws it into her trash can and disappears into a corner.</p>
+			        <p>You chase the mechanical maniac, but you lose sight of it. Here are only two doors through which he may have entered;</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/02">the bathroom AXK (go to 2)</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/16">or the GHW bathroom (go for 16).</Link>
 				</div>
 			</section>
 			<Footer/>

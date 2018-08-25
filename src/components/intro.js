@@ -9,14 +9,14 @@ export default function Intro(){
 			<Header/>
 			<section className="game">
 		        <div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 		        </div>
 				<div className="game-stage">
-			        <p className="App-intro">Este é o Complexo Alfa. Uma metrópole futurista controlada por um computador louco, que se comporta como um tirano fascista. Totalmente paranóico, o Computador vê traidores em toda parte e zela pela felicidade dos cidadãos - nem que para isso precise matar todos! Você é feliz cidadão? Não?! ZIOUF! Você foi desintegrado, um clone está vindo substituí-lo...</p>
-			        <p>O Complexo Alfa é completamente fechado, sem regiões ao ar livre. Um vasto labirinto de corredores coloridos. As pessoas são classificadas por cores que determinam seus níveis de segurança, de acordo com os critérios do Computador. Desobedecer a um cidadão de Nível de Segurança superior ao seu é traição. Ser Comunista é traição (embora você nem faça idéia do que seja um Comunista). Pertencer a uma sociedade secreta é traição. Traição é punida com a morte.</p>
-			        <p>O Computador preparou esta aventura-solo para divertir você, cidadão. Tome suas decisões e siga as instruções. Se as instruções enviarem você para parte alguma, terá sido devido a uma falha do Computador — mas, como o Computador nunca falha, encontrar falhas é traição. Deixar de seguir as instruções é traição. Traição é punida com a morte.</p>
-			        <p>Tenha uma boa aventura, cidadão.</p>
-			        <Link className="btn-game" to="/game-paranoia/stages/01">Comece em 1.</Link>
+			        <p className="App-intro">This is the Alpha Complex. A futuristic metropolis controlled by a mad computer, it behaves like a fascist tyrant. Totally paranoid, the Computer sees traitors everywhere and watches over the citizens' happiness - even if it means killing them all! Are you a happy citizen? No?! ZIOUF! You've been disintegrated, a clone is coming to replace you ...</p>
+			        <p>The Alpha Complex is completely enclosed, with no open air regions. A vast labyrinth of colorful corridors. People are color-coded that determine their security levels, according to the criteria of the Computer. Disobeying a Citizen of Security Level superior to his is treason. Being Communist is treason (although you have no idea what a Communist is). Belonging to a secret society is treason. Betrayal is punishable by death.</p>
+			        <p>The Computer prepared this adventure-solo to amuse you, citizen. Make your decisions and follow the instructions. If the instructions send you nowhere, it was due to a Computer crash - but since the Computer never fails, finding fault is betrayal. Failure to follow the instructions is treason. Betrayal is punishable by death.</p>
+			        <p>Have a good adventure, citizen.</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/01">Start at 1.</Link>
 			    </div>
 	        </section>
 	        <Footer/>

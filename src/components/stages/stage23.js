@@ -9,14 +9,14 @@ export default function Stage23(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>23</strong> Assim que você termina de falar, o balconista levanta a mão que segura o papel esmeralda. Esmeralda! O papel também não é disponível para o nível de segurança dele, que é vermelho.</p>
-			        <p>- Não é iss... - ele grita, mas não consegue terminar a frase antes de ser transformado em fumaça pelos rifles laser dos guardas.</p>
-			        <p>- Bom trabalho, cidadão - o comandante da Segni cumprimenta você. — Por denunciar o traidor, sua lealdade será comunicada ao Computador. Continue assim, e receberá um nível de segurança mais elevado. Seja feliz.</p>
-			        <p>Manobra esperta. Por pouco você não vira fumaça em vez do balconista.</p>
-			        <Link className="btn-game" to="/game-paranoia/stages/27">Vá para 27.</Link>
+			        <p><strong>23</strong> As soon as you finish talking, the clerk raises the hand holding the emerald paper. Emerald! The paper is also not available for the security level of it, which is red.</p>
+			        <p>- Is not tha... - he shouts, but can not finish the sentence before being turned to smoke by the guards' laser rifles.</p>
+			        <p>- Good work, citizen — the commander of Segni greets you. — By denouncing the traitor, your loyalty will be communicated to the Computer. Continue this, and you will receive a higher level of security. Be happy.</p>
+			        <p>Smart maneuver. Little by little you do not turn up smoke instead of the clerk.</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/27">Go to 27.</Link>
 				</div>
 			</section>
 			<Footer/>

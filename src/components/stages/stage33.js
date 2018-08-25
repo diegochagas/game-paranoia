@@ -9,14 +9,14 @@ export default function Stage33(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>33</strong> Você vai até o PLC, o serviço de distribuição de equipamento. Bem antes de chegar lá, pode ver duas filas. Na verdade, você pode ver duas filas muito grandes. Ou melhor, você pode ver duas filas gigantescas!</p>      
-			        <p>Para melhorar sua situação, você não tem idéia de qual fila deve tomar. Felizmente há uma porta lateral no prédio onde diz INFORMAÇOES.</p>  
-			        <Link className="btn-game" to="/game-paranoia/stages/29">Se quiser pegar a fila da esquerda, vá para 29.</Link>
-			        <Link className="btn-game" to="/game-paranoia/stages/32">Se quer a da direita, vá para 32.</Link>
-			        <Link className="btn-game" to="/game-paranoia/stages/19">Para pedir informações, vá para 19.</Link>
+			        <p><strong>33</strong> You go to the PLC, the equipment distribution service. Well before you get there, you can see two rows. In fact, you can see two very large queues. Or rather, you can see two gigantic rows!</p>
+			        <p>To improve your situation, you have no idea which queue to take. Fortunately there is a side door in the building where it says INFORMATION.</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/29">If you want to take the left queue, go to 29.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/32">If you want the one on the right, go to 32.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/19">To request information, go to 19.</Link>
 				</div>
 			</section>
 			<Footer/>

@@ -9,15 +9,15 @@ export default function Stage30(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>30</strong> Você consegue uma autorização OGF43B-5, pega a chave ALF na outra fila e deixa o PLC, feliz porque cumpriu a função designada por seu superior e, portanto não será desintegrado por traição.</p>
-			        <p>Você escuta um "psiu" vindo de um corredor mal iluminado. Quando olha, alguém que se esconde nas sombras e diz:</p>
+			        <p><strong>30</strong> You get an OGF43B-5 authorization, take the ALF key in the other row and leave the PLC, happy that you have fulfilled the function assigned by your superior, and therefore will not be disintegrated by treason.</p>
+			        <p>You hear a "hey" coming from a dimly lit corridor. When you look, someone who hides in the shadows and says:</p>
 			        <p>- Chuba-chuba prrrprrr hey!</p>
-			        <p>É a senha da sua sociedade secreta! Sim, você pertence a um grupo que tenta derrubar a tirania do Computador. Claro que pertencer a uma sociedade secreta é traição. Traição é punida com a morte.</p>
-			        <Link className="btn-game" to="/game-paranoia/stages/12">Você entra no corredor escuro para falar com ele? Vá para 12.</Link>       
-			        <Link className="btn-game" to="/game-paranoia/stages/35">Você continua seguindo seu caminho sem olhar para trás? Vá para 35.</Link>
+			        <p>It's the password of your secret society! Yes, you belong to a group that tries to overthrow the tyranny of the Computer. Of course, belonging to a secret society is treason. Betrayal is punishable by death.</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/12">Do you enter the dark hallway to talk to him? Go to 12.</Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/35">Do you keep going your way without looking back? Go to 35.</Link>
 				</div>
 			</section>
 			<Footer/>

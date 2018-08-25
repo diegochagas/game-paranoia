@@ -9,14 +9,14 @@ export default function Stage05(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>      
 				</div>
 				<div className="game-stage">
-			        <p><strong>5</strong> O cientista ordena que você espere aqui. Ele vai até a sala de testes buscar um novo equipamento, algo que não irá transformá-lo em cinzas, você espera. Felizmente você não está sozinho. CHUÁ TIB 1, seu melhor amigo, também trabalha aqui-e vocês podem ficar conversando enquanto ZECA não chega.</p>
-			        <p>Durante a conversa, CHUÁ pede licença para ir ao banheiro. Mas você nota que ele entra em uma sala que não tem banheiro. Lembra-se também que, antes de sair, ele estava mexendo em uma estranha caixa preta sobre a mesa. Esquisito!</p>
-			        <Link className="btn-game" to="/game-paranoia/stages/24">Se quiser seguir seu amigo, vá para 24. </Link>
-			        <Link className="btn-game" to="/game-paranoia/stages/39">Se fica esperando, vá para 39. </Link>
-			        <Link className="btn-game" to="/game-paranoia/stages/22">Se quer examinar a caixa, vá para 22.</Link>
+			        <p><strong>5</strong> The scientist orders you to wait here. He goes to the testing room to get a new equipment, something that will not turn it into ashes, you expect. Fortunately you are not alone. SPLASH TIB 1, your best friend, also works here-and you can keep talking while ZECA does not arrive.</p>
+			        <p>During the conversation, SPLASH asks permission to go to the bathroom. But you notice that he enters a room that has no bathroom. He also recalled that, before leaving, he was moving a strange black box on the table. Weird!</p>
+			        <Link className="btn-game" to="/game-paranoia/stages/24">If you want to follow your friend, go to 24. </Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/39">If you wait, go to 39. </Link>
+			        <Link className="btn-game" to="/game-paranoia/stages/22">If you want to examine the box, go to 22.</Link>
 			    </div>
 			</section>
 			<Footer/>

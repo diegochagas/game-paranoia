@@ -9,12 +9,12 @@ export default function Stage24(){
 			<Header/>
 			<section className="game">
 				<div className="header-game">
-		            <p>Esta é uma aventura-solo, um tipo de história muito popular quando o RPG estava em seu início no Brasil. É como uma história comum, mas dividida em capítulos numerados. Os capítulos não fazem sentido se lidos em ordem numérica: ao final de cada trecho, você deve seguir as instruções e fazer escolhas. As escolhas corretas levam você ao melhor final, enquanto escolhas erradas levam a finais... desagradáveis!</p>      
+		            <p>This is a solo adventure, a very popular kind of story when the RPG was in its infancy in Brazil. It is like a common story, but divided into numbered chapters. The chapters do not make sense if read in numerical order: at the end of each section, you must follow the instructions and make choices. The right choices lead you to the best final, while wrong choices lead to the end ... nasty!</p>
 				</div>
 				<div className="game-stage">
-			        <p><strong>24</strong> Você acha suspeita a atitude de seu amigo e segueo. Sem que ele perceba, você observa enquanto ele mexe nas engrenagens de um robô. Estranho. Este não é seu trabalho. E ele não foi ao banheiro.</p>        
-			        <Link className="btn-game" to="20">Você fala com ele? Vá para 20.</Link>
-			        <Link className="btn-game" to="15">Volta para a sala? Vá para 15.</Link>
+			        <p><strong>24</strong> You suspect your friend's attitude and follow him. Without him noticing, you watch as he moves the gears of a robot. Weird. This is not your job. And he did not go to the bathroom.</p>
+			        <Link className="btn-game" to="20">You talk to him? Go to 20.</Link>
+			        <Link className="btn-game" to="15">Back to the living room? Go to 15.</Link>
 				</div>
 			</section>
 			<Footer/>
