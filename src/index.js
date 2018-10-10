@@ -93,7 +93,7 @@ ReactDOM.render(
 			<Route path="/game-paranoia/stages/03" component={Stage03} />
 			<Route path="/game-paranoia/stages/02" component={Stage02} />
 			<Route path="/game-paranoia/stages/01" component={Stage01} />
-			<Route path="/game-paranoia/" component={Intro} />
+			<Route path="/game-paranoia" component={Intro} />
 			<Route path="/" component={Intro} />
 		</Switch>
 	</BrowserRouter>
